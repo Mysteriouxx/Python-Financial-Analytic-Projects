@@ -1,4 +1,4 @@
-# Python Finance Projects for Private Banking
+# Python Finance Projects for Private Banking (--Ongoing)
 
 ## Overview
 This repository is a collection of Python-based projects focused on applying financial concepts in the context of private banking. These projects are designed to enhance proficiency in using Python for finance, specifically targeting the key skills needed for a successful career in private banking. Each project builds on the previous one, gradually increasing in complexity to cover a wide range of topics from basic financial analysis to advanced portfolio management and risk assessment.
