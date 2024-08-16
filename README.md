@@ -11,7 +11,7 @@ This repository is a collection of Python-based projects focused on applying fin
 | **Project Beta_Analysis**        | Calculate and analyze the beta of individual stocks to understand their volatility relative to the market.    |
 | **Project Risk_Profiler**        | Develop a risk profiling tool to assess client risk tolerance and generate personalized investment recommendations. |
 | **Project Personalized_Portfolio** | Create a personalized portfolio for a hypothetical client based on their risk tolerance, financial goals, and time horizon. |
-| **Project Adam_Simple**          | Portfolio optimization and performance analysis for a UHNW client, focusing on maximizing the Sharpe Ratio.   |
+| **Project Adam_Smith**          | Portfolio optimization and performance analysis for a UHNW client, focusing on maximizing the Sharpe Ratio.   |
 | **Project Strategic_Asset_Allocation** | Develop a strategic asset allocation model that aligns with a long-term investment strategy.                  |
 | **Project ESG_Screener**         | Build an ESG screening tool to evaluate companies based on their environmental, social, and governance scores. |
 | **Project Liquidity_Analysis**   | Analyze the liquidity of various financial instruments, focusing on metrics like bid-ask spreads and market depth. |
