@@ -31,9 +31,11 @@ This repository is a collection of Python-based projects focused on applying fin
 | **Project Client_Reporting_Automation** | Create an automated system for generating periodic client reports on portfolio performance and market outlooks. |
 | **Project Investment_Policy_Statement** | Draft an IPS tailored to a client's objectives, risk tolerance, and time horizon, integrating financial planning with portfolio management. |
 
-## Getting Started
-Each project in this repository is designed to be independent, allowing you to start with any project that matches your current skill level or interests. Below are the general steps to get started:
+Contributing
+If you have suggestions for new projects or improvements to existing ones, feel free to submit a pull request or open an issue. Contributions are welcome!
 
-1. **Clone the Repository:** 
-   ```bash
-   git clone https://github.com/your-username/Finance-Projects.git
+License
+This repository is licensed under the MIT License. Feel free to use the code and resources for your own projects or learning purposes.
+
+Contact
+If you have any questions or need further guidance, feel free to reach out via GitHub Issues or connect with me on LinkedIn.
