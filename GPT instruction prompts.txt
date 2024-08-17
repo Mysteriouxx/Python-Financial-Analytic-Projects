@@ -1,0 +1,27 @@
+Please generate a README.md file for a project titled "[Project_Title]". The README should include the following sections:
+
+1. **Title:**
+   - The title of the project should be "[Project_Title]: [Project_Subtitle]".
+
+2. **Overview:**
+   - Provide a brief description of the project. Explain the purpose and the primary goal that the project is trying to achieve. Keep this section clear and concise.
+
+3. **Objective:**
+   - Outline the main objective(s) of the project. This section should highlight what the user is expected to accomplish by the end of the project.
+
+4. **Case Scenario:**
+   - Present a case scenario that the project is based on. This section should include:
+     - **Client Profile:** Describe a fictional or real client who is facing a specific problem that this project aims to solve.
+     - **Current Challenge:** Explain the challenges or issues the client is facing that necessitate the development of this project.
+     - **Project Assignment:** Describe the task or solution that the client has requested, which will be the focus of the project.
+
+5. **Expected Deliverable:**
+   - Describe the primary deliverable of the project. This should include a detailed explanation of what the final output (e.g., tool, model, analysis, etc.) will look like and what features it should include.
+
+6. **Key Features to Implement:**
+   - List 3-5 key features or components that the project should implement to meet its objectives. These should be high-level features that are crucial for the project's success.
+
+7. **Instructions:**
+   - Provide clear instructions on how the user should approach the project. Include general guidelines on the steps they should take to complete the project, but avoid being overly prescriptive. The goal is to encourage self-directed learning.
+
+Please ensure that the language is professional, clear, and concise, suitable for a wide audience. The README should be formatted in Markdown, using appropriate headers and bullet points for easy readability.
